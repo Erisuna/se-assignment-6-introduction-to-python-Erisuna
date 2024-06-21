@@ -64,46 +64,54 @@ Answer the following questions based on your understanding of Python programming
 
    Create a file named `python_syntax_and_semantics.py`:
 
-   ```python 
-   # Python Syntax and Semantics
-
    # Simple Python Program
    print("Hello, World!")
 
-   # Explanation:
-   # - print: A built-in function that outputs a message to the console.
-   # - "Hello, World!": A string literal enclosed in double quotes.
+   # - Explanation:
+
+    - print:
+    A built-in function that outputs a message to the console.
+
+   - "Hello, World!":
+    A string literal enclosed in double quotes.
 
 4. Data Types and Variables:
    - List and describe the basic data types in Python. Write a short script that demonstrates how to create and use variables of different data types.
    # Data Types and Variables
 
    # Basic Data Types
-   # - Integer (int): Whole numbers, e.g., 42
-   # - Float (float): Numbers with decimal points, e.g., 3.14
-   # - String (str): Sequence of characters, e.g., "Hello"
-   # - Boolean (bool): True or False values, e.g., True
-   # - List (list): Ordered collection of items, e.g., [1, 2, 3]
-   # - Dictionary (dict): Key-value pairs, e.g., {"key": "value"}
+
+    - Integer (int):
+    Whole numbers, e.g., 42
+    - Float (float): 
+   Numbers with decimal points, e.g., 3.14
+    - String (str): 
+   Sequence of characters, e.g., "Hello"
+    - Boolean (bool): 
+   True or False values, e.g., True
+    - List (list): 
+   Ordered collection of items, e.g., [1, 2, 3]
+    - Dictionary (dict): 
+   Key-value pairs, e.g., {"key": "value"}
 
    # Variable Creation and Usage
 
-   # Integer
+   * Integer 
    age = 30
 
-   # Float
+   * Float
    pi = 3.14
 
-   # String
+   * String
    name = "Alice"
 
-   # Boolean
+   * Boolean
    is_student = True
 
-   # List
+   * List
    numbers = [1, 2, 3]
 
-   # Dictionary
+   * Dictionary
    person = {"name": "Alice", "age": 30}
 
    # Print variables
